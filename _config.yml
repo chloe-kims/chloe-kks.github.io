@@ -1,7 +1,7 @@
 # Site
 title:              Chloe's Study
-bio:                'Build, Build'
-description:        "more absorbed in"
+bio:                'Build, Build, Build!'
+description:        "More absorbed in"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   chloe
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,14 +37,14 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              kks.chloe@gmail.com
+#twitter:            username
+#facebook:           username
+github-url:         chloe-kks
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+instagram:          k._.kks
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
