@@ -22,4 +22,5 @@ Junior Developer, First year of experience on DevOps.
 ## More Information
 
 If you want to ask me a question, please send me an e-mail.
-[Contact me]("mailto:kks.chloe@gmail.com"){: .btn}
+
+<a href="mailto:kks.chloe@gmail.com">Contact me<a/>{: .btn}
